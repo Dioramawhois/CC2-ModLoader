@@ -4,7 +4,7 @@ This file records project history. Historical validation and limitations describ
 that entry's date; use the [README](README.md) and [current guides](docs/README.md)
 for installation, self-build and support information.
 
-## Unreleased - beta 12 audit corrections (2026-11-07)
+## 0.4.0b13 - audit corrections (2026-11-07)
 
 - Serialize final game launch with apply/Undo; block pending recovery and defer
   rollback after detecting a running game instead of changing live native files.
